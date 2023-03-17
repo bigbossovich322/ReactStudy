@@ -1,0 +1,9 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    align-items: center;
+}
+
+.increment__button {
+    size: 1000px;
+}
